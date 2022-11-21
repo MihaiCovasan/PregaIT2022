@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Anul 3\\Practica\\Guess the number\\Guess the number\\Guess the number.csproj",
+      "projectUniqueName": "D:\\Anul 3\\Practica\\GuessTheNumberGit\\Guess the number\\Guess the number.csproj",
       "projectName": "Guess the number",
-      "projectPath": "D:\\Anul 3\\Practica\\Guess the number\\Guess the number\\Guess the number.csproj",
+      "projectPath": "D:\\Anul 3\\Practica\\GuessTheNumberGit\\Guess the number\\Guess the number.csproj",
       "packagesPath": "C:\\Users\\mihai\\.nuget\\packages\\",
-      "outputPath": "D:\\Anul 3\\Practica\\Guess the number\\Guess the number\\obj\\",
+      "outputPath": "D:\\Anul 3\\Practica\\GuessTheNumberGit\\Guess the number\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mihai\\AppData\\Roaming\\NuGet\\NuGet.Config",
