@@ -1,0 +1,15 @@
+D:\Anul 3\Practica\Guess the number\Guess the number\bin\Debug\net6.0\Guess the number.exe
+D:\Anul 3\Practica\Guess the number\Guess the number\bin\Debug\net6.0\Guess the number.deps.json
+D:\Anul 3\Practica\Guess the number\Guess the number\bin\Debug\net6.0\Guess the number.runtimeconfig.json
+D:\Anul 3\Practica\Guess the number\Guess the number\bin\Debug\net6.0\Guess the number.dll
+D:\Anul 3\Practica\Guess the number\Guess the number\bin\Debug\net6.0\Guess the number.pdb
+D:\Anul 3\Practica\Guess the number\Guess the number\obj\Debug\net6.0\Guess the number.csproj.AssemblyReference.cache
+D:\Anul 3\Practica\Guess the number\Guess the number\obj\Debug\net6.0\Guess the number.GeneratedMSBuildEditorConfig.editorconfig
+D:\Anul 3\Practica\Guess the number\Guess the number\obj\Debug\net6.0\Guess the number.AssemblyInfoInputs.cache
+D:\Anul 3\Practica\Guess the number\Guess the number\obj\Debug\net6.0\Guess the number.AssemblyInfo.cs
+D:\Anul 3\Practica\Guess the number\Guess the number\obj\Debug\net6.0\Guess the number.csproj.CoreCompileInputs.cache
+D:\Anul 3\Practica\Guess the number\Guess the number\obj\Debug\net6.0\Guess the number.dll
+D:\Anul 3\Practica\Guess the number\Guess the number\obj\Debug\net6.0\refint\Guess the number.dll
+D:\Anul 3\Practica\Guess the number\Guess the number\obj\Debug\net6.0\Guess the number.pdb
+D:\Anul 3\Practica\Guess the number\Guess the number\obj\Debug\net6.0\Guess the number.genruntimeconfig.cache
+D:\Anul 3\Practica\Guess the number\Guess the number\obj\Debug\net6.0\ref\Guess the number.dll
