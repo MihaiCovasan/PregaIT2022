@@ -1,10 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
 using System;
 
-Console.WriteLine("Hello, World!");
-
-
-
 Random rand = new Random();
 int guess = 0;
 int rangeStart, rangeEnd;
