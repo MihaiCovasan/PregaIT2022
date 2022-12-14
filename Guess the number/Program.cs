@@ -4,6 +4,7 @@ using System;
 Random rand = new Random();
 int guess = 0;
 int rangeStart, rangeEnd;
+// validare, text mesaje
 Console.WriteLine("Dati minNumber: ");
 rangeStart = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine("Dati maxNumber: ");
